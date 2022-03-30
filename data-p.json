@@ -3,7 +3,7 @@
     [
       "Tiger Nixon",
       "System Architect",
-      "<i class=\"fa fa-volume-up fa-2x\"></i>",
+      "<i class=\"fa fa-volume-up fa-2x\"><\/i>",
       61,
       "2011/04/25",
       "$320,800"
@@ -11,7 +11,7 @@
     [
       "Garrett Winters",
       "Accountant",
-      "<i class=\"fa fa-volume-up fa-2x\"></i>",
+      "<i class=\"fa fa-volume-up fa-2x\"><\/i>",
       63,
       "2011/07/25",
       "$170,750"
@@ -19,7 +19,7 @@
     [
       "Ashton Cox",
       "Junior Technical Author",
-      "<a href=\"#\"></a>",
+      "<i class=\"fa fa-volume-up fa-2x\"><\/i>",
       66,
       "2009/01/12",
       "$86,000"
